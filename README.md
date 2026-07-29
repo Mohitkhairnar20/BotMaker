@@ -9,9 +9,9 @@
 
 ## 📺 Demo Video
 
-<p align="center">
-  <video src="https://raw.githubusercontent.com/Mohitkhairnar20/BotMaker/main/media/demo.mp4" width="100%" controls></video>
-</p>
+![BotLeague Demo Video](https://raw.githubusercontent.com/Mohitkhairnar20/BotMaker/main/media/demo.mp4)
+
+*If the video does not render above, you can [view it directly here](https://github.com/Mohitkhairnar20/BotMaker/blob/main/media/demo.mp4).*
 
 ---
 
