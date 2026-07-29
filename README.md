@@ -7,6 +7,12 @@
 
 **BotLeague** is a highly responsive, premium sci-fi themed landing page for India's premier robotics sports and professional tournament league. Designed to serve as a national ecosystem for robotics, the platform showcases competitive disciplines, player leaderboards, event schedules, team brackets, and career opportunities for engineers and makers.
 
+## 📺 Demo Video
+
+<p align="center">
+  <video src="./media/demo.mp4" width="100%" controls></video>
+</p>
+
 ---
 
 ## 🚀 Key Features
