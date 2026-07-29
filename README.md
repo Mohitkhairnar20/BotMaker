@@ -10,7 +10,7 @@
 ## 📺 Demo Video
 
 <p align="center">
-  <video src="./media/demo.mp4" width="100%" controls></video>
+  <video src="https://raw.githubusercontent.com/Mohitkhairnar20/BotMaker/main/media/demo.mp4" width="100%" controls></video>
 </p>
 
 ---
